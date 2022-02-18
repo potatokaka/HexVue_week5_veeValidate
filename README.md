@@ -1,4 +1,4 @@
-https://potatokaka.github.io/HexVue_week5_veeValidate
+https://potatokaka.github.io/HexVue_week5_veeValidate/cart.html
 
 ## Vue 直播班 Week5 主線任務
 
